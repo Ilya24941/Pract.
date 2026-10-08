@@ -5,7 +5,7 @@ class Program
     static void Main(string[] args)
     {
         string x = Console.ReadLine();
-        Console.WriteLine(x + " Пока");
+        Console.WriteLine(x + " Hello");
 
     }
 }
